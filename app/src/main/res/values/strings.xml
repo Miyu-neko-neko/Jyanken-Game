@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">じゃんけんゲーム</string>
+
+    <string name="jannkenn">じゃんけん・・・</string>
+    <string name="pon">ぽん！！！</string>
+    <string name="win">かちいいい！！！</string>
+    <string name="loose">まけえええ。。。</string>
+    <string name="draw">ひきいわけえええ</string>
+    <string name="aikodesho">あいこで...</string>
+    <string name="sho">しょっ!!!</string>
+</resources>
